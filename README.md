@@ -7,3 +7,7 @@ Il codice è organizzato nei seguenti file:
 index.html: Contiene la struttura HTML della calcolatrice.
 style.css: Gestisce lo stile e l'aspetto visivo della calcolatrice.
 main.js: Contiene il codice JavaScript per la gestione delle operazioni matematiche.
+
+
+## Demo
+https://lucahaggar.github.io/Calcolatrice/
